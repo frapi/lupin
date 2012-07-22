@@ -1,0 +1,11 @@
+{
+    "name": "frapi/lupin",
+    "type": "library",
+    "require": {
+        "php": ">=5.2.0",
+        "breerly/zf1": "1.11.*"
+    },
+    "autoload": {
+        "psr-0": {"Lupin": "/"}
+    }
+}
